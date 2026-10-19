@@ -1,14 +1,14 @@
 # 仅为 [filter_remote] 条目示例，不是完整主配置。
-# 发布后替换 OWNER；为避免批量改变路由，示例默认关闭。
+# 为避免批量改变路由，示例默认关闭，使用前请核对策略名称。
 [filter_remote]
-https://raw.githubusercontent.com/OWNER/quantumultx-rules/main/rules/services/openai.list, tag=openai, force-policy=狮城节点, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/OWNER/quantumultx-rules/main/rules/services/anthropic.list, tag=anthropic, force-policy=狮城节点, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/OWNER/quantumultx-rules/main/rules/services/google-gemini.list, tag=google-gemini, force-policy=狮城节点, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/OWNER/quantumultx-rules/main/rules/services/google.list, tag=google, force-policy=狮城节点, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/OWNER/quantumultx-rules/main/rules/services/onedrive.list, tag=onedrive, force-policy=direct, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/OWNER/quantumultx-rules/main/rules/services/deepseek.list, tag=deepseek, force-policy=direct, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/OWNER/quantumultx-rules/main/rules/services/cnki.list, tag=cnki, force-policy=direct, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/OWNER/quantumultx-rules/main/rules/services/steam.list, tag=steam, force-policy=香港节点, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/OWNER/quantumultx-rules/main/rules/services/spotify.list, tag=spotify, force-policy=美国节点, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/OWNER/quantumultx-rules/main/rules/services/apple.list, tag=apple, force-policy=苹果服务, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/OWNER/quantumultx-rules/main/rules/services/bilibili.list, tag=bilibili, force-policy=哔哩哔哩, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/openai.list, tag=openai, force-policy=狮城节点, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/anthropic.list, tag=anthropic, force-policy=狮城节点, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/google-gemini.list, tag=google-gemini, force-policy=狮城节点, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/google.list, tag=google, force-policy=狮城节点, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/onedrive.list, tag=onedrive, force-policy=direct, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/deepseek.list, tag=deepseek, force-policy=direct, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/cnki.list, tag=cnki, force-policy=direct, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/steam.list, tag=steam, force-policy=香港节点, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/spotify.list, tag=spotify, force-policy=美国节点, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/apple.list, tag=apple, force-policy=苹果服务, update-interval=86400, opt-parser=false, enabled=false
+https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/bilibili.list, tag=bilibili, force-policy=哔哩哔哩, update-interval=86400, opt-parser=false, enabled=false
