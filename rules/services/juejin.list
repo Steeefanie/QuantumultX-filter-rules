@@ -1,0 +1,17 @@
+# 名称：juejin
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/juejin
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host, p1-juejin.byteimg.com, proxy
+host, p2-juejin.byteimg.com, proxy
+host, p3-juejin.byteimg.com, proxy
+host, p4-juejin.byteimg.com, proxy
+host, p5-juejin.byteimg.com, proxy
+host, p6-juejin.byteimg.com, proxy
+host, p7-juejin.byteimg.com, proxy
+host, p8-juejin.byteimg.com, proxy
+host, p9-juejin.byteimg.com, proxy
+host-suffix, juejin.cn, proxy
+host-suffix, juejin.im, proxy
+host-suffix, xitu.io, proxy

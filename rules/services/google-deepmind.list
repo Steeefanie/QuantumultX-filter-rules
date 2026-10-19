@@ -1,0 +1,51 @@
+# 名称：google-deepmind
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/google-deepmind
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host, ai.google.dev, proxy
+host, alkalicore-pa.clients6.google.com, proxy
+host, alkalimakersuite-pa.clients6.google.com, proxy
+host, antigravity-pa.googleapis.com, proxy
+host, antigravity.googleapis.com, proxy
+host, cloudaicompanion.googleapis.com, proxy
+host, cloudcode-pa.googleapis.com, proxy
+host, daily-cloudcode-pa.googleapis.com, proxy
+host, geminiweb-pa.clients.google.com, proxy
+host, geminiweb-pa.clients6.google.com, proxy
+host, notebooklm-pa.googleapis.com, proxy
+host, notebooklm.googleapis.com, proxy
+host, webchannel-alkalimakersuite-pa.clients6.google.com, proxy
+host-suffix, ai.studio, proxy
+host-suffix, aicode.googleapis.com, proxy
+host-suffix, aida.googleapis.com, proxy
+host-suffix, aisandbox-pa.googleapis.com, proxy
+host-suffix, aistudio.google.com, proxy
+host-suffix, antigravity-unleash.goog, proxy
+host-suffix, antigravity.google, proxy
+host-suffix, bard.google.com, proxy
+host-suffix, deepmind.com, proxy
+host-suffix, deepmind.google, proxy
+host-suffix, flow.google, proxy
+host-suffix, flow.google.com, proxy
+host-suffix, geller-pa.googleapis.com, proxy
+host-suffix, gemini.google, proxy
+host-suffix, gemini.google.com, proxy
+host-suffix, gemini.gstatic.com, proxy
+host-suffix, generativeai.google, proxy
+host-suffix, generativelanguage.googleapis.com, proxy
+host-suffix, jules.google, proxy
+host-suffix, jules.google.com, proxy
+host-suffix, labs.google, proxy
+host-suffix, labs.google.com, proxy
+host-suffix, labstailwind.pa.googleapis.com, proxy
+host-suffix, makersuite.google.com, proxy
+host-suffix, notebook.google, proxy
+host-suffix, notebook.google.com, proxy
+host-suffix, notebooklm.google, proxy
+host-suffix, notebooklm.google.com, proxy
+host-suffix, opal.google, proxy
+host-suffix, opal.google.com, proxy
+host-suffix, proactivebackend-pa.googleapis.com, proxy
+host-suffix, robinfrontend-pa.googleapis.com, proxy
+host-suffix, stitch.withgoogle.com, proxy

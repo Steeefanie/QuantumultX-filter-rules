@@ -1,0 +1,30 @@
+# 名称：jetbrains
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/jetbrains
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host-suffix, cdn.jetbrains.com, proxy
+host-suffix, datalore.io, proxy
+host-suffix, grazie.ai, proxy
+host-suffix, grazie.aws.intellij.net, proxy
+host-suffix, intellij.com, proxy
+host-suffix, intellij.net, proxy
+host-suffix, intellij.org, proxy
+host-suffix, jb.gg, proxy
+host-suffix, jetbrains.ai, proxy
+host-suffix, jetbrains.cloud, proxy
+host-suffix, jetbrains.com, proxy
+host-suffix, jetbrains.com.cn, proxy
+host-suffix, jetbrains.dev, proxy
+host-suffix, jetbrains.net, proxy
+host-suffix, jetbrains.org, proxy
+host-suffix, jetbrains.ru, proxy
+host-suffix, jetbrains.space, proxy
+host-suffix, jetbrains.team, proxy
+host-suffix, kotl.in, proxy
+host-suffix, kotlinconf.com, proxy
+host-suffix, kotlinlang.org, proxy
+host-suffix, ktor.io, proxy
+host-suffix, myjetbrains.com, proxy
+host-suffix, talkingkotlin.com, proxy
+host-suffix, youtrack.cloud, proxy

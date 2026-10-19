@@ -1,0 +1,21 @@
+# 名称：vimeo
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/vimeo
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host-suffix, livestream.com, proxy
+host-suffix, vhx.tv, proxy
+host-suffix, vhxqa1.com, proxy
+host-suffix, vhxqa2.com, proxy
+host-suffix, vhxqa3.com, proxy
+host-suffix, vhxqa4.com, proxy
+host-suffix, vhxqa6.com, proxy
+host-suffix, vimeo-staging.com, proxy
+host-suffix, vimeo-staging2.com, proxy
+host-suffix, vimeo.com, proxy
+host-suffix, vimeo.fr, proxy
+host-suffix, vimeobusiness.com, proxy
+host-suffix, vimeocdn.com, proxy
+host-suffix, vimeogoods.com, proxy
+host-suffix, vimeoondemand.com, proxy
+host-suffix, vimeostatus.com, proxy

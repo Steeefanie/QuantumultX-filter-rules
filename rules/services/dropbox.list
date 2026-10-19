@@ -1,0 +1,21 @@
+# 名称：dropbox
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/dropbox
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host, paper-attachments.s3.amazonaws.com, proxy
+host-suffix, db.tt, proxy
+host-suffix, dropbox-dns.com, proxy
+host-suffix, dropbox.com, proxy
+host-suffix, dropbox.tech, proxy
+host-suffix, dropboxapi.com, proxy
+host-suffix, dropboxbusiness.com, proxy
+host-suffix, dropboxcaptcha.com, proxy
+host-suffix, dropboxforum.com, proxy
+host-suffix, dropboxforums.com, proxy
+host-suffix, dropboxinsiders.com, proxy
+host-suffix, dropboxmail.com, proxy
+host-suffix, dropboxpartners.com, proxy
+host-suffix, dropboxstatic.com, proxy
+host-suffix, dropboxusercontent.com, proxy
+host-suffix, getdropbox.com, proxy

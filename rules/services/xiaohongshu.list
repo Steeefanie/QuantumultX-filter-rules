@@ -1,0 +1,17 @@
+# 名称：xiaohongshu
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/xiaohongshu
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host-suffix, askdiandian.com, proxy
+host-suffix, diandianlife.top, proxy
+host-suffix, redelight.cn, proxy
+host-suffix, rednote.com, proxy
+host-suffix, rednote.com.my, proxy
+host-suffix, rednotecdn.com, proxy
+host-suffix, rnote.com, proxy
+host-suffix, xhscdn.com, proxy
+host-suffix, xhscdn.net, proxy
+host-suffix, xhslink.com, proxy
+host-suffix, xhsrcdn.com, proxy
+host-suffix, xiaohongshu.com, proxy

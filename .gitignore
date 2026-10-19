@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.p12
+*.pfx
+*.key
+private/
+work/

@@ -1,0 +1,23 @@
+# 名称：apple-music
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/apple-music
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host, amp-api-edge.music.apple.com, proxy
+host, amp-api.music.apple.com, proxy
+host, js-cdn.music.apple.com, proxy
+host, music.apple.com, proxy
+host, musicstatus.music.apple.com, proxy
+host, play.music.apple.com, proxy
+host, speedysub.music.apple.com, proxy
+host-suffix, applemusic.berlin, proxy
+host-suffix, applemusic.co, proxy
+host-suffix, applemusic.com, proxy
+host-suffix, applemusic.com.au, proxy
+host-suffix, applemusic.hamburg, proxy
+host-suffix, applemusic.wang, proxy
+host-suffix, applemusicconnect.com, proxy
+host-suffix, applemusicfestival.com, proxy
+host-suffix, music.apple.com, proxy
+host-suffix, musickit.net, proxy
+host-suffix, wwwapplemusic.com, proxy

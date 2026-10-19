@@ -1,0 +1,15 @@
+# 名称：iqiyi
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/iqiyi
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host-suffix, 71.am, proxy
+host-suffix, 71edge.com, proxy
+host-suffix, iq.com, proxy
+host-suffix, iqiyi.com, proxy
+host-suffix, iqiyipic.com, proxy
+host-suffix, pps.tv, proxy
+host-suffix, ppsimg.com, proxy
+host-suffix, qiyi.com, proxy
+host-suffix, qiyipic.com, proxy
+host-suffix, qy.net, proxy

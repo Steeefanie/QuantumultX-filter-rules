@@ -1,0 +1,17 @@
+# 名称：googlefcm
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/googlefcm
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host, alt1-mtalk.google.com, proxy
+host, alt2-mtalk.google.com, proxy
+host, alt3-mtalk.google.com, proxy
+host, alt4-mtalk.google.com, proxy
+host, alt5-mtalk.google.com, proxy
+host, alt6-mtalk.google.com, proxy
+host, alt7-mtalk.google.com, proxy
+host, alt8-mtalk.google.com, proxy
+host, mtalk-dev.google.com, proxy
+host, mtalk-staging.google.com, proxy
+host, mtalk.google.com, proxy
+host, mtalk4.google.com, proxy

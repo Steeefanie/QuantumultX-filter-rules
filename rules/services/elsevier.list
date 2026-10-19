@@ -1,0 +1,19 @@
+# 名称：elsevier
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/elsevier
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host-suffix, cell.com, proxy
+host-suffix, clinicalkey.com, proxy
+host-suffix, els-cdn.com, proxy
+host-suffix, elsevier-ae.com, proxy
+host-suffix, elsevier.com, proxy
+host-suffix, elsevier.io, proxy
+host-suffix, engineeringvillage.com, proxy
+host-suffix, evise.com, proxy
+host-suffix, fundinginstitutional.com, proxy
+host-suffix, knovel.com, proxy
+host-suffix, mendeley.com, proxy
+host-suffix, reaxys.com, proxy
+host-suffix, scival.com, proxy
+host-suffix, scopus.com, proxy

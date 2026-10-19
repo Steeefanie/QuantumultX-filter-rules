@@ -1,0 +1,22 @@
+name: 规则校验
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 获取仓库
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - name: 检查格式及重复条件
+        run: python3 tools/build.py --check
+      - name: 检查转换边界
+        run: python3 -m unittest discover -s tools -p 'test_*.py'
+      - name: 检查 PR 标题与中文说明
+        if: github.event_name == 'pull_request'
+        run: python3 tools/check_commit.py --pull-request

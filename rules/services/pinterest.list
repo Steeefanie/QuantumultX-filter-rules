@@ -1,0 +1,57 @@
+# 名称：pinterest
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/pinterest
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host-suffix, pin.it, proxy
+host-suffix, pinimg.com, proxy
+host-suffix, pinimg.com.cdn.cloudflare.net, proxy
+host-suffix, pinterest.at, proxy
+host-suffix, pinterest.be, proxy
+host-suffix, pinterest.ca, proxy
+host-suffix, pinterest.ch, proxy
+host-suffix, pinterest.cl, proxy
+host-suffix, pinterest.co, proxy
+host-suffix, pinterest.co.at, proxy
+host-suffix, pinterest.co.in, proxy
+host-suffix, pinterest.co.kr, proxy
+host-suffix, pinterest.co.nz, proxy
+host-suffix, pinterest.co.uk, proxy
+host-suffix, pinterest.com, proxy
+host-suffix, pinterest.com.au, proxy
+host-suffix, pinterest.com.bo, proxy
+host-suffix, pinterest.com.ec, proxy
+host-suffix, pinterest.com.mx, proxy
+host-suffix, pinterest.com.pe, proxy
+host-suffix, pinterest.com.py, proxy
+host-suffix, pinterest.com.uy, proxy
+host-suffix, pinterest.com.vn, proxy
+host-suffix, pinterest.de, proxy
+host-suffix, pinterest.dk, proxy
+host-suffix, pinterest.ec, proxy
+host-suffix, pinterest.engineering, proxy
+host-suffix, pinterest.es, proxy
+host-suffix, pinterest.fr, proxy
+host-suffix, pinterest.hu, proxy
+host-suffix, pinterest.id, proxy
+host-suffix, pinterest.ie, proxy
+host-suffix, pinterest.in, proxy
+host-suffix, pinterest.info, proxy
+host-suffix, pinterest.it, proxy
+host-suffix, pinterest.jp, proxy
+host-suffix, pinterest.kr, proxy
+host-suffix, pinterest.map.fastly.net, proxy
+host-suffix, pinterest.mx, proxy
+host-suffix, pinterest.net, proxy
+host-suffix, pinterest.nl, proxy
+host-suffix, pinterest.nz, proxy
+host-suffix, pinterest.pe, proxy
+host-suffix, pinterest.ph, proxy
+host-suffix, pinterest.pt, proxy
+host-suffix, pinterest.ru, proxy
+host-suffix, pinterest.se, proxy
+host-suffix, pinterest.th, proxy
+host-suffix, pinterest.tw, proxy
+host-suffix, pinterest.uk, proxy
+host-suffix, pinterest.vn, proxy
+host-suffix, pinterestmail.com, proxy

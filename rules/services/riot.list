@@ -1,0 +1,59 @@
+# 名称：riot
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/riot
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host, lolstatic-a.akamaihd.net, proxy
+host-suffix, championshipseriesleague.com, proxy
+host-suffix, convrgencegame.com, proxy
+host-suffix, historyofdota.com, proxy
+host-suffix, historyofdota.net, proxy
+host-suffix, historyofdota.org, proxy
+host-suffix, instituteofwar.org, proxy
+host-suffix, lcsmerch.com, proxy
+host-suffix, leaguehighschool.com, proxy
+host-suffix, leagueoflegends.ca, proxy
+host-suffix, leagueoflegends.cn, proxy
+host-suffix, leagueoflegends.co.kr, proxy
+host-suffix, leagueoflegends.com, proxy
+host-suffix, leagueoflegends.info, proxy
+host-suffix, leagueoflegends.kr, proxy
+host-suffix, leagueoflegends.net, proxy
+host-suffix, leagueoflegends.org, proxy
+host-suffix, leagueoflegendsscripts.com, proxy
+host-suffix, leaguesharp.info, proxy
+host-suffix, leaguoflegends.com, proxy
+host-suffix, learnwithleague.com, proxy
+host-suffix, lol-europe.com, proxy
+host-suffix, lolclub.org, proxy
+host-suffix, lolespor.com, proxy
+host-suffix, lolesports.com, proxy
+host-suffix, lolfanart.net, proxy
+host-suffix, lolpcs.com, proxy
+host-suffix, lolshop.co.kr, proxy
+host-suffix, lolstatic.com, proxy
+host-suffix, lolusercontent.com, proxy
+host-suffix, lpl.com.cn, proxy
+host-suffix, molesports.com, proxy
+host-suffix, playvalorant.com, proxy
+host-suffix, pvp.net, proxy
+host-suffix, pvp.tv, proxy
+host-suffix, rgpub.io, proxy
+host-suffix, riot-games.com, proxy
+host-suffix, riot.com, proxy
+host-suffix, riot.net, proxy
+host-suffix, riotcdn.net, proxy
+host-suffix, riotforgegames.com, proxy
+host-suffix, riotgames.co.kr, proxy
+host-suffix, riotgames.com, proxy
+host-suffix, riotgames.info, proxy
+host-suffix, riotgames.jp, proxy
+host-suffix, riotgames.net, proxy
+host-suffix, riotgames.tv, proxy
+host-suffix, riotpin.com, proxy
+host-suffix, riotpoints.com, proxy
+host-suffix, rstatic.net, proxy
+host-suffix, ruinedking.com, proxy
+host-suffix, supremacy.com, proxy
+host-suffix, supremacy.net, proxy
+host-suffix, ulol.com, proxy

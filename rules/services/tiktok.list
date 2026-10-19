@@ -1,0 +1,41 @@
+# 名称：tiktok
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/tiktok
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host, p16-tiktok-dm-sticker-sign-sg.ibyteimg.com, proxy
+host, p16-tiktokcdn-com.akamaized.net, proxy
+host, roovza-launches.appsflyersdk.com, proxy
+host, roovza.inapps.appsflyersdk.com, proxy
+host, roovza.launches.appsflyersdk.com, proxy
+host, roovza.skadsdk.appsflyersdk.com, proxy
+host-suffix, bytedapm.com, proxy
+host-suffix, muscdn.com, proxy
+host-suffix, musical.ly, proxy
+host-suffix, tik-tokapi.com, proxy
+host-suffix, tiktok-minis.com, proxy
+host-suffix, tiktok-row.net, proxy
+host-suffix, tiktok.com, proxy
+host-suffix, tiktokcdn-eu.com, proxy
+host-suffix, tiktokcdn-us.com, proxy
+host-suffix, tiktokcdn-us.com.edgesuite.net, proxy
+host-suffix, tiktokcdn.com, proxy
+host-suffix, tiktokcdn.com.akamaized.net, proxy
+host-suffix, tiktokcdn.com.edgesuite.net, proxy
+host-suffix, tiktokd.net, proxy
+host-suffix, tiktokd.org, proxy
+host-suffix, tiktokeu-cdn.com, proxy
+host-suffix, tiktokglobalshopv.com, proxy
+host-suffix, tiktokminis.us, proxy
+host-suffix, tiktokrow-cdn.com, proxy
+host-suffix, tiktokv.com, proxy
+host-suffix, tiktokv.com.edgekey.net, proxy
+host-suffix, tiktokv.com.edgesuite.net, proxy
+host-suffix, tiktokv.eu, proxy
+host-suffix, tiktokv.us, proxy
+host-suffix, tiktokw.eu, proxy
+host-suffix, tiktokw.us, proxy
+host-suffix, ttcdn-us.com, proxy
+host-suffix, ttlivecdn.com, proxy
+host-suffix, ttoverseaus.net, proxy
+host-suffix, ttwstatic.com, proxy

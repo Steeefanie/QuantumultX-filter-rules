@@ -1,0 +1,55 @@
+# 名称：naver
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/naver
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host-suffix, band.us, proxy
+host-suffix, clova.ai, proxy
+host-suffix, gcld-line.com, proxy
+host-suffix, grafolio.com, proxy
+host-suffix, lin.ee, proxy
+host-suffix, line-apps-beta.com, proxy
+host-suffix, line-apps-rc.com, proxy
+host-suffix, line-apps.com, proxy
+host-suffix, line-beta.me, proxy
+host-suffix, line-cdn.net, proxy
+host-suffix, line-scdn.net, proxy
+host-suffix, line.biz, proxy
+host-suffix, line.me, proxy
+host-suffix, line.naver.jp, proxy
+host-suffix, linecorp.com, proxy
+host-suffix, linefriends.com, proxy
+host-suffix, linefriends.com.tw, proxy
+host-suffix, linegame.jp, proxy
+host-suffix, linemobile.com, proxy
+host-suffix, linemyshop.com, proxy
+host-suffix, lineshoppingseller.com, proxy
+host-suffix, linetv.tw, proxy
+host-suffix, modoo.at, proxy
+host-suffix, naver.com, proxy
+host-suffix, naver.com.akadns.net, proxy
+host-suffix, naver.jp, proxy
+host-suffix, naver.me, proxy
+host-suffix, naver.net, proxy
+host-suffix, naverads.com, proxy
+host-suffix, naverads.com.akadns.net, proxy
+host-suffix, navercloudcorp.com, proxy
+host-suffix, navercorp.com, proxy
+host-suffix, naverfincorp.com, proxy
+host-suffix, naverlabs.com, proxy
+host-suffix, naverncp.com, proxy
+host-suffix, ncloud.com, proxy
+host-suffix, nheos.com, proxy
+host-suffix, nhncorp.jp, proxy
+host-suffix, plug.game, proxy
+host-suffix, prismlive.com, proxy
+host-suffix, pstatic.net, proxy
+host-suffix, snow.me, proxy
+host-suffix, snowcorp.com, proxy
+host-suffix, studiolico.com, proxy
+host-suffix, studioncorp.com, proxy
+host-suffix, vday.io, proxy
+host-suffix, wattpad.com, proxy
+host-suffix, webtoons.com, proxy
+host-suffix, webtoonscorp.com, proxy
+host-suffix, worksmobile.com, proxy

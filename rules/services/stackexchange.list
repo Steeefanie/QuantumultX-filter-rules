@@ -1,0 +1,30 @@
+# 名称：stackexchange
+# 来源：https://github.com/v2fly/domain-list-community/tree/6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f/data/stackexchange
+# 原作者：V2Fly / V2Ray 社区贡献者；上游许可：MIT
+# 本地修改：转换格式、去重、分离广告属性、隔离关键词/正则及共享根域名。
+# 状态：静态校验通过不代表真实设备验证通过。内部策略由 force-policy 覆盖。
+host-suffix, askubuntu.com, proxy
+host-suffix, blogoverflow.com, proxy
+host-suffix, codeforaliving.io, proxy
+host-suffix, mathoverflow.net, proxy
+host-suffix, serverfault.com, proxy
+host-suffix, sstatic.net, proxy
+host-suffix, stackapps.com, proxy
+host-suffix, stackauth.com, proxy
+host-suffix, stackexchange.com, proxy
+host-suffix, stackmod.blog, proxy
+host-suffix, stackoverflow.blog, proxy
+host-suffix, stackoverflow.co, proxy
+host-suffix, stackoverflow.com, proxy
+host-suffix, stackoverflow.email, proxy
+host-suffix, stackoverflow.help, proxy
+host-suffix, stackoverflow.net, proxy
+host-suffix, stackoverflowbusiness.com, proxy
+host-suffix, stackoverflowcareers.com, proxy
+host-suffix, stackoverflowjobs.com, proxy
+host-suffix, stackoverflowsolutions.com, proxy
+host-suffix, stackoverflowteams.com, proxy
+host-suffix, stacksnippets.net, proxy
+host-suffix, superuser.com, proxy
+host-suffix, tex-talk.net, proxy
+host-suffix, thesffblog.com, proxy
