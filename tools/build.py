@@ -249,7 +249,7 @@ def main():
     parser.add_argument('--check', action='store_true', help='检查当前生成文件')
     args = parser.parse_args()
     if args.refresh:
-        req=urllib.request.Request('https://codeload.github.com/v2fly/domain-list-community/tar.gz/refs/heads/master',headers={'User-Agent':'quantumultx-rules-maintenance'})
+        req=urllib.request.Request('https://codeload.github.com/v2fly/domain-list-community/tar.gz/refs/heads/master',headers={'User-Agent':'QuantumultX-filter-rules-maintenance'})
         with urllib.request.urlopen(req,timeout=60) as response:
             content=response.read(20_000_001)
         if len(content)>20_000_000:

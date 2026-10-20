@@ -30,7 +30,7 @@
 仓库发布后，Raw 链接格式为：
 
 ```text
-https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/openai.list
+https://raw.githubusercontent.com/Steeefanie/QuantumultX-filter-rules/main/rules/services/openai.list
 ```
 
 以上地址对应本仓库的 OpenAI 分流规则。
@@ -39,9 +39,9 @@ https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rule
 
 ```ini
 [filter_remote]
-https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/openai.list, tag=OpenAI, force-policy=狮城节点, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/onedrive.list, tag=OneDrive, force-policy=direct, update-interval=86400, opt-parser=false, enabled=true
-https://raw.githubusercontent.com/Steeefanie/quantumultx-routing-rules/main/rules/services/cnki.list, tag=知网, force-policy=direct, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Steeefanie/QuantumultX-filter-rules/main/rules/services/openai.list, tag=OpenAI, force-policy=狮城节点, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Steeefanie/QuantumultX-filter-rules/main/rules/services/onedrive.list, tag=OneDrive, force-policy=direct, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Steeefanie/QuantumultX-filter-rules/main/rules/services/cnki.list, tag=知网, force-policy=direct, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 “狮城节点”必须是你的配置中已存在的策略名称。示例仅说明写法，不表示对应服务必须使用该地区或必须直连。不要重复创建 `[filter_remote]` 段；将条目放入已有段落即可。
